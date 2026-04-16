@@ -1,0 +1,12 @@
+{
+  "name": "Guardian: Smart Emergency Helper",
+  "description": "A rapid-response emergency application that detects your location, finds nearby help, and provides AI-powered first-aid instructions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Emergency Services Location",
+    "AI First Aid Guidance",
+    "One-Touch SOS Messaging"
+  ]
+}
